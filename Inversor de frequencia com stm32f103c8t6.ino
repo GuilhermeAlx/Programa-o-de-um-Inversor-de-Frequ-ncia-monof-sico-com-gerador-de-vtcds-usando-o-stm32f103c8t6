@@ -1,3 +1,5 @@
+//Foi usado a biblioteca STM32DUINO, junto com a Arduino ide. Necessário ativar a comunicação usart USB para definição dos parâmetros
+
 #include <Arduino.h>
 #include <SoftwareSerial.h>
 
